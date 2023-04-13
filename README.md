@@ -1,4 +1,12 @@
 # Project Platformer game C++
-Platformer game like mario style, still work in progress. If sprite does not load check for the image directory(still working on it). Uses SMFL 
-library and classes from C++ to create the game. Collision works at the bottom of the screen with right and left movement working perfectly fine. 
-Jump needs work to limit the jump as well to make the character go down by itself. Skeletal class was build for tiles and the map.
+
+# Project Functionality
+The project is a platformer game similar to Mario, which involves the player controlling a character who must navigate through levels filled with obstacles and enemies, while collecting power-ups and coins. Using player input to move the character and perform certain events.
+
+
+# Project Reason
+The game provides entertainment and enjoyment to players, as it offers a challenging and immersive experience. The gameplay mechanics require the player to master the character's movements, timing, and strategy, making it a fun and rewarding experience as they progress through the levels.
+
+
+# List of maintainers
+Simon Gonzalez
